@@ -1,0 +1,9 @@
+A collection of some Spring-CDI integration approaches
+
+This is an assembly of other open source code and bundled under the MIT license.
+
+This project incorporates work from:
+ - https://github.com/matzew/spring-cdi-bridge
+ - https://github.com/nschlimm/spring-decorator
+
+Use at your own will and risk!
